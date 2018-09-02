@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Tirez le meilleur parti du marketing automation en installant le module MailChimp sur votre boutique PrestaShop</title>
+    <link>https://www.prestashop.com/fr/blog/module-mailchimp-sur-prestashop</link>
+    <description>Ces dernières années les besoins de vos clients ont changé et l’un des principaux défis en tant que e-commerçant, est de pouvoir adresser des campagnes marketing qualitatives à ses abonnés.</description>
+     <pubDate>Fri, 31 Aug 2018 10:49:29 +0200</pubDate>
+ <dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/module-mailchimp-sur-prestashop</guid>
+  </item>
+  <item>
+    <title>MA P’TITE CULOTTE : la marque de lingerie 100% digitale</title>
+    <link>https://www.prestashop.com/fr/blog/success-story-ma-ptite-culotte</link>
+    <description>Paris, juillet 2018 - Si on vous dit lingerie sexy, comfy et frenchie, vous répondez... ?</description>
+     <pubDate>Tue, 07 Aug 2018 15:24:29 +0200</pubDate>
+ <dc:creator>LouiseB</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/success-story-ma-ptite-culotte</guid>
+  </item>
+  <item>
+    <title>Mollie pour PrestaShop : créez votre nouvelle entreprise en ligne comme un expert</title>
+    <link>https://www.prestashop.com/fr/blog/mollie-pour-prestashop-creez-votre-nouvelle-entreprise-en-ligne-comme-un-expert</link>
+    <description>Comment faire de votre nouvelle boutique en ligne un succès en choisissant les bons partenaires.
+ </description>
+     <pubDate>Tue, 07 Aug 2018 14:37:15 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/mollie-pour-prestashop-creez-votre-nouvelle-entreprise-en-ligne-comme-un-expert</guid>
+  </item>
+  <item>
+    <title>Pourquoi déployer son e-commerce en mode multiboutique ?</title>
+    <link>https://www.prestashop.com/fr/blog/pourquoi-deployer-son-e-commerce-en-mode-multiboutique</link>
+    <description>Disponible depuis la version PrestaShop 1.5, le mode multiboutique PrestaShop permet de gérer plusieurs boutiques depuis un seul back-office, offrant ainsi un réel confort aux e-commerçants.</description>
+     <pubDate>Tue, 07 Aug 2018 14:34:30 +0200</pubDate>
+ <dc:creator>L&#039;agence123</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/pourquoi-deployer-son-e-commerce-en-mode-multiboutique</guid>
+  </item>
+  <item>
+    <title>Un moteur de recherche interne efficace : un élément indispensable pour améliorer son taux de conversion.</title>
+    <link>https://www.prestashop.com/fr/blog/ameliorer-taux-de-conversion</link>
+    <description>Chaque recherche depuis le moteur de recherche interne d’un site internet doit fournir à l’internaute un résultat ou lui offrir une alternative.</description>
+     <pubDate>Mon, 06 Aug 2018 00:00:00 +0200</pubDate>
+ <dc:creator>doofinder</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ameliorer-taux-de-conversion</guid>
+  </item>
+  <item>
+    <title>Pourquoi connecter ERP et solution e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/pourquoi-connecter-erp-et-solution-e-commerce</link>
+    <description>Qu’il s’agisse d’un premier site ou d’une refonte, l’une des problématiques centrales rencontrée par les sites e-commerce reste la </description>
+     <pubDate>Thu, 26 Jul 2018 10:03:07 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/pourquoi-connecter-erp-et-solution-e-commerce</guid>
+  </item>
+  <item>
+    <title>Comment contribuer au projet PrestaShop ? </title>
+    <link>https://www.prestashop.com/fr/blog/comment-contribuer-au-projet-prestashop</link>
+    <description>Comme l&#039;indique le titre de cet article, nous vous avons préparé un guide contenant toutes les informations dont vous avez besoin pour contribuer au projet PrestaShop.</description>
+     <pubDate>Mon, 23 Jul 2018 11:20:08 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comment-contribuer-au-projet-prestashop</guid>
+  </item>
+  <item>
+    <title>Rencontrez Edouard et Cyril, nos Ambassadeurs du mois | Juillet 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeurs-cyril-edouard-paris</link>
+    <description>A propos de vous
+Trois mots pour mieux vous décrire :
+Edouard : “dithyrambique”. C’est mon nom sur Instagram :) et c’est un état d’esprit ! @dithyrambique</description>
+     <pubDate>Thu, 19 Jul 2018 15:23:38 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeurs-cyril-edouard-paris</guid>
+  </item>
+  <item>
+    <title>Offre emploi Développeur Web</title>
+    <link>https://www.prestashop.com/fr/blog/offre-emploi-developpeur-web</link>
+    <description>La société</description>
+     <pubDate>Tue, 17 Jul 2018 15:32:01 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/offre-emploi-developpeur-web</guid>
+  </item>
+  <item>
+    <title>eBay a lancé son système d’annonces par produits en mai 2018 - Votre solution de référencement produit est-elle adaptée à cette évolution ?</title>
+    <link>https://www.prestashop.com/fr/blog/ebay-systeme-dannonces-produits</link>
+    <description>En quoi consiste la nouvelle expérience de shopping par produits lancée par eBay ?</description>
+     <pubDate>Wed, 11 Jul 2018 16:23:05 +0200</pubDate>
+ <dc:creator>magnalister</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ebay-systeme-dannonces-produits</guid>
+  </item>
+  </channel>
+</rss>
